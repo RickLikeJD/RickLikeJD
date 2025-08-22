@@ -28,15 +28,8 @@
 
 ---
 
-### 🎵 Minha playlist do Spotify 
-
-[![Minha Playlist](https://i.scdn.co/image/ab67706c0000bebb3f3b0b6b6a6f5f6c7d8e9f0a)](https://open.spotify.com/playlist/6sxveeaS27WO4ehPsVX4xq)
-
-
----
-
 ### 🌍 Onde me encontrar  
-<div align="center">
+<div align="left">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
