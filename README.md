@@ -28,7 +28,7 @@
 
 ---
 
-### 🎵 Minha Playlist Favorita no Spotify  
+### 🎵 Minha playlist do Spotify 
 
 [![Minha Playlist](https://i.scdn.co/image/ab67706c0000bebb3f3b0b6b6a6f5f6c7d8e9f0a)](https://open.spotify.com/playlist/6sxveeaS27WO4ehPsVX4xq)
 
